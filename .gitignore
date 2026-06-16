@@ -1,0 +1,10 @@
+# 本地论文 PDF 缓存（不上传 GitHub）
+cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统/编辑器
+.DS_Store
+.vscode/
