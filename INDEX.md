@@ -1,10 +1,19 @@
 # 📅 论文索引（按阅读日期）
 
-共 3 篇。由 `scripts/build_index.py` 自动生成，请勿手动编辑。
+共 6 篇。由 `scripts/build_index.py` 自动生成，请勿手动编辑。
 
+
+## 2026-07
+
+- **2026-07-15** — [Infinite Worlds with Versatile Interactions](papers/2026/07/2026-07-15-infinite-worlds-with-versatile-interactions.md) · [arXiv:2607.07534](https://arxiv.org/abs/2607.07534) ⭐⭐⭐⭐
+  - `world-model`, `video-generation`, `action-control`, `diffusion-models`, `transformer`
+- **2026-07-06** — [Orca: The World is in Your Mind](papers/2026/07/2026-07-06-orca-the-world-is-in-your-mind.md) · [arXiv:2606.30534](https://arxiv.org/abs/2606.30534) ⭐⭐⭐⭐
+  - `world-model`, `transformer`, `scaling`, `action-control`, `video-generation`
 
 ## 2026-06
 
+- **2026-06-26** — [GameFactory: Creating New Games with Generative Interactive Videos](papers/2026/06/2026-06-26-gamefactory.md) · [arXiv:2501.08325](https://arxiv.org/abs/2501.08325) ⭐⭐⭐
+  - `video-generation`, `game-generation`, `action-control`, `diffusion-models`, `world-model`
 - **2026-06-16** — [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](papers/2026/06/2026-06-16-d4rt.md) · [arXiv:2512.08924](https://arxiv.org/abs/2512.08924) ⭐⭐⭐⭐⭐
   - `4d-reconstruction`, `point-tracking`, `feed-forward`, `transformer`, `camera-pose`, `dynamic-scenes`
 - **2026-06-16** — [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](papers/2026/06/2026-06-16-sd3-mmdit-rectified-flow.md) · [arXiv:2403.03206](https://arxiv.org/abs/2403.03206) ⭐⭐⭐⭐⭐
